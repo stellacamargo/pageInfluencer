@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> Links by Ste </h1>
 
 <p align="center">
@@ -40,3 +41,6 @@ Esse projeto está sob licença MIT.
 ---
 
 Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+
+>>>>>>> ce82e707d9c9e37fbc8f774058a9fa3c752573cf
