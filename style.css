@@ -34,6 +34,7 @@ body {
 
   /*background: color image repeat position/sizer*/
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -174,4 +175,15 @@ footer {
   padding: 24px;
   text-align: center;
   font-size: 14px;
+}
+
+/* media queries */
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(../assets/fundo-ste-black.png);
+  }
+
+  .light {
+    --bg-url: url(../assets/fundo-ste.png);
+  }
 }
